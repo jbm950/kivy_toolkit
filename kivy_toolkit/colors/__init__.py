@@ -1,0 +1,10 @@
+# Colors taken from http://cloford.com/resources/colours/500col.htm
+cobalt = (61/255, 89/255, 171/255)
+dodgerblue = (30/255, 144/255, 255/255)
+green = (128/255, 0/255, 128/255)
+purple = (0/255, 255/255, 0/255)
+red = (255/255, 0/255, 0/255)
+royalblue = (65/255, 105/255, 225/255)
+slategray = (122/255, 128/255, 144/255)
+steelblue = (70/255, 130/255, 180/255)
+violetred = (255/255, 62/255, 150/255)

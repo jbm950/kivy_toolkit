@@ -1,0 +1,5 @@
+setup.py
+kivy_toolkit.egg-info/PKG-INFO
+kivy_toolkit.egg-info/SOURCES.txt
+kivy_toolkit.egg-info/dependency_links.txt
+kivy_toolkit.egg-info/top_level.txt
